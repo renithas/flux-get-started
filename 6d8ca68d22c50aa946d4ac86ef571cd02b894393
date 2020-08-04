@@ -1,0 +1,1 @@
+{"jobID":"7642123a-230a-f940-f5ae-bc0b886f2042","spec":{"type":"policy","cause":{"Message":"3.2.2 does not work for us","User":""},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true"},"remove":{}}}},"result":null}
