@@ -10,7 +10,6 @@ metadata:
     fluxcd.io/automated: "true"
     fluxcd.io/tag.init: glob:1.4.*
     fluxcd.io/tag.podinfod: glob:1.4.*
-    fluxcd.io/locked: 'true'
 spec:
   strategy:
     rollingUpdate:
